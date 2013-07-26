@@ -1,1 +1,2 @@
-Write-Host "O M G"Write-Host "O M G"Write-Host "O M G"Write-Host "O M G"Write-Host "O M G"
+# Code is screwed, rewrote
+Write-Host "Oh My God"
